@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;900&display=swap');
+
+
+
+
+      #banner{
+        background: url(" https://ak.picdn.net/shutterstock/videos/10570424/thumb/1.jpg");
+        height: 100vh;
+        
+        
+
+        
+      }
+
+      #banner .content{
+        padding-left: 15%;
+        padding-top: 10%;
+
+      }
+      #banner .content .text{
+        padding-right: 70%;
+        margin-top: 1%;
+        color: #fff;
+      }
+
+      #banner .content h4{
+        
+        margin-top: 1%;
+      }
+
+      #banner .content h1{
+        
+        font-size: 55px;
+        font-weight: 500;
+        font-family: 'Roboto', sans-serif;
+        
+      }
+
+      #banner .content div h1{
+        letter-spacing: 15px;
+        color: #fff;
+      }
+      #banner .content .name{
+        font-size: 75px;
+        color: blanchedalmond;
+      }
+      #banner .content .name:hover{
+        color: grey;
+      }
+
+      #banner .content h4{
+        color: #fff;
+        font-size: 25px;
+      }
+
+      #banner .btn{
+        padding-left: 15%;
+        margin-top: 2%;
+        
+      }
+
+      #banner .btn button{
+        height: 40px;
+        margin-left: 5px;
+        width: 180px;
+        border-style: none;
+        background-color: #ffff;
+        color: black;
+        font-weight: 900;
+        font-family: 'fantasy;', sans-serif;
+        border-radius: 2px;
+        cursor: pointer;
+      }
+      #banner .btn button:hover{
+        background-color: grey;
+        color: #fff;
+      }
+
+      
+
+      /* #banner .card img{
+        height: auto;
+        width: 350px;
+      } */
+    

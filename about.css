@@ -1,0 +1,23 @@
+
+
+
+body{
+	background : black;
+	font-size: 20px;
+}
+
+.acontent{
+	padding: 5%;
+}
+.acontent p{
+	color: #fff;
+	margin-bottom: 1%;
+	text-align: center;
+}
+
+.acontent .title{
+	color: #fff;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 3%;
+}
